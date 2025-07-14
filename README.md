@@ -1,8 +1,9 @@
-📊 Financial Analytics Dashboard
+
+# 📊 Financial Analytics Dashboard
 
 This project focuses on analyzing and visualizing financial data of companies using Python. It aims to provide insights into revenue, profit, market capitalization, and other key financial metrics to support business decision-making.
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset contains financial information of various companies with fields such as:
 
@@ -24,7 +25,7 @@ You can replace the sample dataset with any real-world financial dataset (e.g., 
 - seaborn 🌈
 - Jupyter Notebook
 
-📌 Key Features
+ 📌 Key Features
 
 - Descriptive statistics and summary
 - Handling of missing data
@@ -32,5 +33,15 @@ You can replace the sample dataset with any real-world financial dataset (e.g., 
 - Top 10 companies by market cap (bar chart)
 - Revenue vs Profit analysis (scatter plot)
 - Sector-wise comparison
+
+
+ 📌 Future Improvements
+
+* Integrate Streamlit or Dash for web-based dashboard
+* Add financial ratios like P/E, ROE, etc.
+* Connect to live financial APIs (e.g., Alpha Vantage, Yahoo Finance)
+
+
+
 
 
